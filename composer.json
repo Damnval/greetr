@@ -1,0 +1,19 @@
+{
+    "name": "val-netsells/greetr",
+    "description": "Learning package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Netsells\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Val",
+            "email": "val.montesclaros@netsells.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
